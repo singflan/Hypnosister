@@ -13,6 +13,7 @@
 		6B3535461A5F51C500CC9B93 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B3535451A5F51C500CC9B93 /* Images.xcassets */; };
 		6B3535491A5F51C500CC9B93 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6B3535471A5F51C500CC9B93 /* LaunchScreen.xib */; };
 		6B3535551A5F51C500CC9B93 /* HypnosisterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B3535541A5F51C500CC9B93 /* HypnosisterTests.m */; };
+		6B3743F11AAF8A51000EEF80 /* Icon-40@2x-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B3743F01AAF8A51000EEF80 /* Icon-40@2x-1.png */; };
 		6BAB84991AA60B9500ED3218 /* BNRHypnosisView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BAB84981AA60B9500ED3218 /* BNRHypnosisView.m */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +39,7 @@
 		6B35354E1A5F51C500CC9B93 /* HypnosisterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HypnosisterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B3535531A5F51C500CC9B93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6B3535541A5F51C500CC9B93 /* HypnosisterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HypnosisterTests.m; sourceTree = "<group>"; };
+		6B3743F01AAF8A51000EEF80 /* Icon-40@2x-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40@2x-1.png"; path = "../../TryazonApp/TryazonApp/Images.xcassets/AppIcon.appiconset/Icon-40@2x-1.png"; sourceTree = "<group>"; };
 		6BAB84971AA60B9500ED3218 /* BNRHypnosisView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNRHypnosisView.h; sourceTree = "<group>"; };
 		6BAB84981AA60B9500ED3218 /* BNRHypnosisView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BNRHypnosisView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -88,6 +90,7 @@
 				6B3535421A5F51C500CC9B93 /* Main.storyboard */,
 				6B3535451A5F51C500CC9B93 /* Images.xcassets */,
 				6B3535471A5F51C500CC9B93 /* LaunchScreen.xib */,
+				6B3743F01AAF8A51000EEF80 /* Icon-40@2x-1.png */,
 				6B3535381A5F51C500CC9B93 /* Supporting Files */,
 			);
 			path = Hypnosister;
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B3535441A5F51C500CC9B93 /* Main.storyboard in Resources */,
+				6B3743F11AAF8A51000EEF80 /* Icon-40@2x-1.png in Resources */,
 				6B3535491A5F51C500CC9B93 /* LaunchScreen.xib in Resources */,
 				6B3535461A5F51C500CC9B93 /* Images.xcassets in Resources */,
 			);
